@@ -92,6 +92,9 @@
 /**************************/
 /* HERO SECTION */
 /**************************/
+.section-hero {
+  background-color: #fdf2e9;
+}
 
 .sticky .section-hero {
   background-color: #fdf2e9;
