@@ -4,7 +4,7 @@ I completed this project while doing an [Udemy course](https://www.udemy.com/cou
 
 ### Screenshot
 
-![](img/omnifood-readme.png)
+![](img/omnifoodscreenshot.png)
 
 ### Built with:
 
